@@ -83,7 +83,7 @@ const Subcategorypage = () => {
       </div>
       <div>
         {addnewsubcategory && (
-          <div className="shadow-2xl w-[500px] h-[400px] absolute mt-[-33%] ml-[27%] bg-white ">
+          <div className="shadow-2xl w-[500px] h-[400px] absolute mt-[-10%] ml-[27%] bg-white ">
             <div className="flex justify-between ml-7 mr-10 mt-10">
               <div className="text-xl font-semibold">
                 Create New Sub-Category
